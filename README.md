@@ -17,6 +17,9 @@ I enjoy learning and exploring new technologies.
 - **[Food Analysis](https://github.com/Pacholki/meet_your_meat/blob/main/zywicki_wojcik_tlaczala.pdf)** – Performed exploratory data analysis and visualization about various protein sources.
 - **[Spotify User Dashboard](https://github.com/wojcikbart/TWD-Projekt-JA)** – Built an interactive dashboard to analyze and visualize a user's Spotify listening statistics, behavior and tendencies.
 
+### 🏗️ Data Engineering / Business Intelligence
+- **[NBA Data Warehouse](#)** – Building a dimensional model for NBA data to support advanced analytics and Power BI dashboards. *(Work in progress)*
+
 ### 🧬 Bioinformatics
 - **[scHi-C Simulation Tool](https://github.com/wojcikbart/scHi-C-Simulations)** – Simulated single-cell Hi-C data for evaluating 3D chromatin structure reconstruction methods.
 
@@ -27,9 +30,6 @@ I enjoy learning and exploring new technologies.
 ### 🧿 Biometrics
 - **[Image Processing App](https://github.com/wojcikbart/Image-processing-app)** – GUI-based tool for applying custom filters, edge detection, and histogram analysis.
 - **[Iris Recognition](https://github.com/wojcikbart/Iris-recognition)** – Implemented Daugman’s algorithm with Gabor filters for iris code generation and matching.
-
-### 🏗️ Data Engineering / Business Intelligence
-- **[NBA Data Warehouse](#)** – Building a dimensional model for NBA data to support advanced analytics and Power BI dashboards.
 
 ---
 
