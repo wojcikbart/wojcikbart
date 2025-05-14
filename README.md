@@ -11,7 +11,7 @@ I enjoy learning and exploring new technologies.
 - **[Dry Bean Classification](https://github.com/wojcikbart/ML-Project-1)** – Trained classifiers to identify bean types using shape and texture-based features.
 - **[NYC Airbnb Clustering](https://github.com/Pacholki/ML-2projekcik)** – Applied unsupervised learning to group Airbnb listings by pricing and location patterns and more.
 - **[NBA Hall of Fame Prediction (SAS Viya)](https://github.com/wojcikbart/NBA-HallOfFame)** – Predicted Hall of Fame induction using player career statistics and machine learning using SAS Viya tools and visual analytics.
-- **[Neural Networks from Scratch](https://github.com/wojcikbart/NeuralNetworks)** – Building custom MLPs using only NumPy; includes training with backpropagation, momentum and more. *(Work in progress)*
+- **[Neural Networks from scratch](https://github.com/wojcikbart/NeuralNetworks)** – Building custom MLPs using only NumPy; includes training with backpropagation, momentum and more. *(Work in progress)*
 
 ### 📊 Data Analysis
 - **[Food Analysis](https://github.com/Pacholki/meet_your_meat/blob/main/zywicki_wojcik_tlaczala.pdf)** – Performed exploratory data analysis and visualization about various protein sources.
@@ -30,8 +30,6 @@ I enjoy learning and exploring new technologies.
 
 ### 🏗️ Data Engineering / Business Intelligence
 - **[NBA Data Warehouse](#)** – Building a dimensional model for NBA data to support advanced analytics and Power BI dashboards.
-
-> Explore more in my [repositories](https://github.com/wojcikbart?tab=repositories)
 
 ---
 
