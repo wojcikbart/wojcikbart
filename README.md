@@ -11,14 +11,14 @@ I enjoy learning and exploring new technologies.
 - **[Dry Bean Classification](https://github.com/wojcikbart/ML-Project-1)** – Trained classifiers to identify bean types using shape and texture-based features.
 - **[NYC Airbnb Clustering](https://github.com/Pacholki/ML-2projekcik)** – Applied unsupervised learning to group Airbnb listings by pricing and location patterns and more.
 - **[NBA Hall of Fame Prediction (SAS Viya)](https://github.com/wojcikbart/NBA-HallOfFame)** – Predicted Hall of Fame induction using player career statistics and machine learning using SAS Viya tools and visual analytics.
-- **[Neural Networks from scratch](https://github.com/wojcikbart/NeuralNetworks)** – Building custom MLPs using only NumPy; includes training with backpropagation, momentum and more. *(Work in progress)*
+- **[Neural Networks from scratch](https://github.com/wojcikbart/NeuralNetworks)** – Building custom MLPs using only NumPy; includes training with backpropagation, momentum and more.
 
 ### 📊 Data Analysis
 - **[Food Analysis](https://github.com/Pacholki/meet_your_meat/blob/main/zywicki_wojcik_tlaczala.pdf)** – Performed exploratory data analysis and visualization about various protein sources.
 - **[Spotify User Dashboard](https://github.com/wojcikbart/TWD-Projekt-JA)** – Built an interactive dashboard to analyze and visualize a user's Spotify listening statistics, behavior and tendencies.
 
 ### 🏗️ Data Engineering / Business Intelligence
-- **[NBA Data Warehouse](#)** – Building a dimensional model for NBA data to support advanced analytics and Power BI dashboards. *(Work in progress)*
+- **[NBA Data Warehouse](https://github.com/wojcikbart/NBA_warehouse)** – Building a dimensional model for NBA data to support advanced analytics and Power BI dashboards. *(Work in progress)*
 
 ### 🧬 Bioinformatics
 - **[scHi-C Simulation Tool](https://github.com/wojcikbart/scHi-C-Simulations)** – Simulated single-cell Hi-C data for evaluating 3D chromatin structure reconstruction methods.
