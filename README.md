@@ -18,7 +18,7 @@ I enjoy learning and exploring new technologies.
 - **[Spotify User Dashboard](https://github.com/wojcikbart/TWD-Projekt-JA)** – Built an interactive dashboard to analyze and visualize a user's Spotify listening statistics, behavior and tendencies.
 
 ### 🏗️ Data Engineering / Business Intelligence
-- **[NBA Data Warehouse](https://github.com/wojcikbart/NBA_warehouse)** – Building a dimensional model for NBA data to support advanced analytics and Power BI dashboards. *(Work in progress)*
+- **[NBA Data Warehouse](https://github.com/wojcikbart/NBA_warehouse)** – Building a dimensional model for NBA data to support advanced analytics and Power BI dashboards. 
 
 ### 🧬 Bioinformatics
 - **[scHi-C Simulation Tool](https://github.com/wojcikbart/scHi-C-Simulations)** – Simulated single-cell Hi-C data for evaluating 3D chromatin structure reconstruction methods.
