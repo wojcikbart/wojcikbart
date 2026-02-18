@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bartek
 
 ## 👨‍💻 Me
-#### Data Science Student 🎓 - Faculty of Mathematics and Information Science - Warsaw University of Technology 🏛
+#### Data Science Graduate 🎓 - Faculty of Mathematics and Information Science - Warsaw University of Technology 🏛
 I'm passionate about **Machine Learning** and **Data Science**.
 I enjoy learning and exploring new technologies.  
 
