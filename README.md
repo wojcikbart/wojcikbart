@@ -7,6 +7,9 @@ I enjoy learning and exploring new technologies.
 
 ## 🛠️ Projects
 
+### 🎓 Engineering Thesis
+- **[Diet Planning Support Application using Image Analysis](https://github.com/wojcikbart/cal-cones)** - Developed a mobile application utilizing a computer vision model to automatically detect and identify food items in images for automated dietary tracking.
+
 ### 🤖 Machine Learning
 - **[Dry Bean Classification](https://github.com/wojcikbart/ML-Project-1)** – Trained classifiers to identify bean types using shape and texture-based features.
 - **[NYC Airbnb Clustering](https://github.com/Pacholki/ML-2projekcik)** – Applied unsupervised learning to group Airbnb listings by pricing and location patterns and more.
@@ -18,10 +21,12 @@ I enjoy learning and exploring new technologies.
 - **[Spotify User Dashboard](https://github.com/wojcikbart/TWD-Projekt-JA)** – Built an interactive dashboard to analyze and visualize a user's Spotify listening statistics, behavior and tendencies.
 
 ### 🏗️ Data Engineering / Business Intelligence
-- **[NBA Data Warehouse](https://github.com/wojcikbart/NBA_warehouse)** – Building a dimensional model for NBA data to support advanced analytics and Power BI dashboards. 
+- **[NBA Data Warehouse](https://github.com/wojcikbart/NBA_warehouse)** – Building a dimensional model for NBA data to support advanced analytics and Power BI dashboards.
+- **[Crypto Analysis System](https://github.com/tomaszzywicki/Big-Data-Crypto)** - Built a real-time analytical platform using Lambda Architecture to monitor cryptocurrency markets. 
 
 ### 🧬 Bioinformatics
 - **[scHi-C Simulation Tool](https://github.com/wojcikbart/scHi-C-Simulations)** – Simulated single-cell Hi-C data for evaluating 3D chromatin structure reconstruction methods.
+- **[Tumor-segmentation models evaluation](https://github.com/wojcikbart/tumor-segmentation)** - Evaluated and analyzed the generalization capabilities of various deep learning models for brain tumor segmentation.
 
 ### 🌐 Web Development
 - **[Football Stats Viewer (Java)](https://github.com/wojcikbart/JavaProject)** – Java GUI app that fetches data from a football API to display standings and stats for the top 5 European leagues.
